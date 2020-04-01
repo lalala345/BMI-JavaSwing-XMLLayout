@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Frame
+        id="00"
+        positionX="100"
+        positionY="100"
+        width="277"
+        height="220"
+        title="BMI form">
+
+    <Label
+            id="01"
+            positionX="20"
+            positionY="10"
+            width="250"
+            height="25"
+            text="Check BMI(Body Mass Index)"/>
+    <Label
+            id="02"
+            positionX="20"
+            positionY="40"
+            width="67"
+            height="25"
+            text="Name"/>
+    <TextField
+            id="03"
+            positionX="90"
+            positionY="40"
+            width="150"
+            height="25" />
+    <Label
+            id="04"
+            positionX="20"
+            positionY="70"
+            width="67"
+            height="25"
+            text="Weight(kg)"/>
+    <TextField
+            id="05"
+            positionX="90"
+            positionY="70"
+            width="150"
+            height="25" />
+    <Label
+            id="06"
+            positionX="20"
+            positionY="100"
+            width="67"
+            height="25"
+            text="Height(cm)"/>
+    <TextField
+            id="07"
+            positionX="90"
+            positionY="100"
+            width="150"
+            height="25" />
+    <Button
+            id="08"
+            positionX="20"
+            positionY="130"
+            width="217"
+            height="25"
+            text="Check!"/>
+
+</Frame>
